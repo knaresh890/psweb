@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('shellscript ') {
       steps {
-        sh 'echo " wellcome tonaresh kokkkak'
+        sh 'echo " wellcome tonaresh kokkkak "'
       }
     }
   }
